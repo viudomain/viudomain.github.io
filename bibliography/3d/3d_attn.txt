@@ -1,0 +1,6 @@
+@article{hegde2021uncertainty,
+  title={Uncertainty-aware mean teacher for source-free unsupervised domain adaptive 3d object detection},
+  author={Hegde, Deepti and Sindagi, Vishwanath and Kilic, Velat and Cooper, A Brinton and Foster, Mark and Patel, Vishal},
+  journal={arXiv preprint arXiv:2109.14651},
+  year={2021}
+}

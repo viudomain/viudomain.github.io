@@ -1,0 +1,8 @@
+@inproceedings{sindagi2020prior,
+  title={Prior-based domain adaptive object detection for hazy and rainy conditions},
+  author={Sindagi, Vishwanath A and Oza, Poojan and Yasarla, Rajeev and Patel, Vishal M},
+  booktitle={European Conference on Computer Vision},
+  pages={763--780},
+  year={2020},
+  organization={Springer}
+}

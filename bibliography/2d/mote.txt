@@ -1,0 +1,7 @@
+@inproceedings{vs2021mega,
+  title={Mega-cda: Memory guided attention for category-aware unsupervised domain adaptive object detection},
+  author={VS, Vibashan and Gupta, Vikram and Oza, Poojan and Sindagi, Vishwanath A and Patel, Vishal M},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4516--4526},
+  year={2021}
+}

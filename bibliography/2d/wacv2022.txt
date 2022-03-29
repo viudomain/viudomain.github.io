@@ -1,0 +1,7 @@
+@inproceedings{vs2022meta,
+  title={Meta-UDA: Unsupervised Domain Adaptive Thermal Object Detection using Meta-Learning},
+  author={VS, Vibashan and Poster, Domenick and You, Suya and Hu, Shuowen and Patel, Vishal M},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={1412--1423},
+  year={2022}
+}

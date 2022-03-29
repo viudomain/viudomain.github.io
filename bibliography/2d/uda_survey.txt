@@ -1,0 +1,6 @@
+@article{oza2021unsupervised,
+  title={Unsupervised domain adaptation of object detectors: A survey},
+  author={Oza, Poojan and Sindagi, Vishwanath A and VS, Vibashan and Patel, Vishal M},
+  journal={arXiv preprint arXiv:2105.13502},
+  year={2021}
+}

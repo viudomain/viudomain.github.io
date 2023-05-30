@@ -1,0 +1,8 @@
+@inproceedings{lo2022learning,
+  title={Learning Feature Decomposition for Domain Adaptive Monocular Depth Estimation},
+  author={Lo, Shao-Yuan and Wang, Wei and Thomas, Jim and Zheng, Jingjing and Patel, Vishal M and Kuo, Cheng-Hao},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8376--8382},
+  year={2022},
+  organization={IEEE}
+}

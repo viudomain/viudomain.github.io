@@ -1,6 +1,7 @@
-@article{valanarasu2022fly,
-  title={On-the-Fly Test-time Adaptation for Medical Image Segmentation},
-  author={Valanarasu, Jeya Maria Jose and Guo, Pengfei and VS, Vibashan and Patel, Vishal M},
-  journal={arXiv preprint arXiv:2203.05574},
+@article{vibashan2022target,
+  title={Target and Task specific Source-Free Domain Adaptive Image Segmentation.},
+  author={Vibashan, VS and Valanarasu, Jeya Maria Jose and Patel, Vishal M},
+  journal={arXiv preprint arXiv},
+  volume={2203},
   year={2022}
 }

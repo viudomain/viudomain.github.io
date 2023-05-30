@@ -1,0 +1,7 @@
+@inproceedings{lo2023spatio,
+  title={Spatio-Temporal Pixel-Level Contrastive Learning-based Source-Free Domain Adaptation for Video Semantic Segmentation},
+  author={Lo, Shao-Yuan and Oza, Poojan and Chennupati, Sumanth and Galindo, Alejandro and Patel, Vishal M},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10534--10543},
+  year={2023}
+}
